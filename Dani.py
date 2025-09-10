@@ -1,4 +1,4 @@
-# ===================================================================
+Too # ===================================================================
 # DECODE BY : ADNAN RAJPOOT
 # FACEBOOK : PRINCE.RAJPOOT.0077
 # GITHUB : +923306346604
@@ -494,4 +494,5 @@ if __name__ == '__main__':
         sys.exit()
     except Exception as e:
         print(f'\n\x1b[91;1m   ➤ Error: {str(e)}\x1b[97;1m')
+
         sys.exit()
